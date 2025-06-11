@@ -1,0 +1,4 @@
+
+global raw "/Users/vbp/Dropbox (Personal)/research/research-data/uk-housing-hedonics-data/raw"
+global working "/Users/vbp/Dropbox (Personal)/research/research-data/uk-housing-hedonics-data"
+global output_folder "/Users/vbp/Dropbox (Personal)/research/research-data/ystar-data/data/original/working/hedonics"
